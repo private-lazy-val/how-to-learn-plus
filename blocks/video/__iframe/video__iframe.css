@@ -1,0 +1,7 @@
+.video__iframe:not(:last-of-type) {
+  padding-right: 20px;
+}
+
+.video__iframe {
+  border: none;
+}
