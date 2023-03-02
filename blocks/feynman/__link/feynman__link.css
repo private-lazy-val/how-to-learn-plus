@@ -9,7 +9,6 @@
   text-decoration: none;
   opacity: 1;
   transition: opacity 0.2s linear;
-  z-index: 2;
 }
 
 .feynman__link:hover {
