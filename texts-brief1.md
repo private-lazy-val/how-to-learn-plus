@@ -96,3 +96,11 @@ ___________________________
 Концепция
 Наставники
 
+___________________________
+https://code.s3.yandex.net/web-plus/project-1/sprint-1-brief.pdf
+https://code.s3.yandex.net/web-plus/project-1/sprint-2-brief.pdf
+
+___________________________
+https://www.figma.com/proto/4Xj9xAwUzLNv6W7AEVcMnx/long-brief?page-id=0%3A1&node-id=11900%3A243&viewport=241%2C48%2C0.09&scaling=min-zoom
+
+
