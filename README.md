@@ -9,7 +9,7 @@
 ## Overview
 
 ### Description
-**How to Learn** is a one-page website crafted with HTML and CSS, built to guide learners on various topics.
+**How to Learn** is a one-page website built with HTML and CSS, offering tips and techniques for effective studying.
 
 ### Hosting
 
